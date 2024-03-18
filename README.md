@@ -1,4 +1,3 @@
-Analysis of country using tableau visualisation for water supply
 Vous êtes consultant Data Analyst en mission dans l’ONG DWFA (Drinking Water For All) ; elle a pour ambition de donner accès à l’eau potable à tout le monde.
 DWFA présente 3 domaines d’expertises :
 
