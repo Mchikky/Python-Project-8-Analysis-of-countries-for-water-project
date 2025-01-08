@@ -1,3 +1,15 @@
+# Project 8: Conduct a study on access to drinking water using Tableau
+Objectives: Conduct a study on access to drinking water through data visualization by Tableau
+
+MISSION: Create a dashboard to identify countries that are experiencing difficulties accessing drinking water to target for funding. The dashboard will present a global view of access to drinking water around the world representing indicators related to our 3 areas of expertise below:
+
+Creation of services for access to drinking water
+Modernization of existing water access services
+Consulting with administrations/governments on water access policies
+
+
+
+
 Vous êtes consultant Data Analyst en mission dans l’ONG DWFA (Drinking Water For All) ; elle a pour ambition de donner accès à l’eau potable à tout le monde.
 DWFA présente 3 domaines d’expertises :
 
