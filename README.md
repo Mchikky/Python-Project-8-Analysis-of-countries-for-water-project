@@ -1,14 +1,31 @@
-# Project 8: Conduct a study on access to drinking water using Tableau
-## OBJECTIVES: 
-Conduct a study on access to drinking water through data visualization by Tableau
+# Project 8: Conduct a study on access to drinking water using Tableau Desktop 2022.4
 
-## MISSION: 
-Create a dashboard to identify countries that are experiencing difficulties accessing drinking water to target for funding. The dashboard will present a global view of access to drinking water around the world representing indicators related to our 3 areas of expertise below:
+## Objectives: 
+Conduct a study on the global access to drinking water through data visualization using Tableau Desktop 2022.4
 
+## Mission: 
+Create a dashboard to identify countries that are experiencing difficulties accessing drinking water to target for funding. The dashboard will present a global view of access to drinking water around the world selecting indicators related to our 3 areas of expertise below:
 - Creation of services for access to drinking water
 - Modernization of existing water access services
-- Consulting with administrations/governments on water access policies
+- Consulting with administrations/governments on water access policies.
+  
+## Data source
+- FAO data on population and political insatbility (2000- 2018).
+- WHO data on basic and safely managed drinking water services (2000 - 2017) and mortality rate attributed to water (2016)
 
+## Data preparation
+- Build data dictionary or metadat repository which is a centralized repository of information about all the datasets.
+- Create blueprint for indicator definition and the type of graph required such as map, bar chart, stacked chart, scatter plot, group bar chart, line grapgh, and table.
+- Design wireframes or mockups using Figma for the 3 dashboards pages: global, continental, and national
+- Convert the 4 excel files to csv. file
+  
+## Data analysis
+- Import the 4 csv. files on population, country, political stability, mortality rate, and basic water services into Jupyter Notebook using Python programming
+- Clean the data by checking for duplicates, missing values, and incoherences in datasets
+- Merge 
+- Export cleaned files tp csv.file
+- Import the csv. file into Tableau desktop to build connection and data visualisation.
+- Plot the relevant graphs.
 
 
 
