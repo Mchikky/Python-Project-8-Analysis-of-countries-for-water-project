@@ -1,10 +1,11 @@
 # Project 8: Conduct a study on access to drinking water using Tableau Desktop 2022.4
+As a Data Analyst consultant on a mission for the NGO DWFA (Drinking Water For All); its ambition is to provide access to drinking water for everyone in the world.
 
 ## Objectives: 
 Conduct a study on the global access to drinking water through data visualization using Tableau Desktop 2022.4
-
-## Mission: 
-Create a dashboard to identify countries that are experiencing difficulties accessing drinking water to target for funding. The dashboard will present a global view of access to drinking water around the world selecting indicators related to our 3 areas of expertise below:
+1. Analyse a client need to formulate analytical questions and select the indicators that seem most relevant to you.
+2. Synthesize our requests via a document presenting the indicators you have chosen to visualize for each view and for each area of expertise.
+3. Create a dashboard to identify countries that are experiencing difficulties accessing drinking water to target for funding. The dashboard will present a global view of access to drinking water in the world selecting indicators related to our 3 areas of expertise below:
 - Creation of services for access to drinking water
 - Modernization of existing water access services
 - Consulting with administrations/governments on water access policies.
