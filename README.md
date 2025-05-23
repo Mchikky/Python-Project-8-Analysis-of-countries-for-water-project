@@ -34,6 +34,12 @@ Conduct a study on the global access to drinking water through data visualizatio
 - Africa has the least perecentage of population using basic drinking water services in rural area.
 - Yemen has the worst political instability in the world.
 - Chad has approximately 46% of its population living in the rural area have access to basic drinking water services.
+
+  https://public.tableau.com/app/profile/chikaodili.mary.kate.deng/viz/Project8a_16820527220970/Mondial?publish=yes
+
+  https://public.tableau.com/app/profile/chikaodili.mary.kate.deng/viz/Project8b_16820533078170/Continental?publish=yes
+
+  https://public.tableau.com/app/profile/chikaodili.mary.kate.deng/viz/Project8c/National?publish=yes
   
 ## Recommendations
 -  Access to drinking water should be improved in Chad given that it has the highest WASH deaths on the continent of Africa.
