@@ -35,12 +35,13 @@ Conduct a study on the global access to drinking water through data visualizatio
 - Yemen has the worst political instability in the world.
 - Chad has approximately 46% of its population living in the rural area have access to basic drinking water services.
 
-  https://public.tableau.com/app/profile/chikaodili.mary.kate.deng/viz/Project8a_16820527220970/Mondial?publish=yes
+![Tableau Dashboard National](https://github.com/user-attachments/assets/b91eb980-a793-4abe-9943-71b7f47794ae)
 
-  https://public.tableau.com/app/profile/chikaodili.mary.kate.deng/viz/Project8b_16820533078170/Continental?publish=yes
+![Tableau Dashboard Continental](https://github.com/user-attachments/assets/3934887c-5528-46c8-a005-9c94abc02883)
 
-  https://public.tableau.com/app/profile/chikaodili.mary.kate.deng/viz/Project8c/National?publish=yes
-  
+![Tableau Dashboard Global](https://github.com/user-attachments/assets/1aea9bb9-e21f-4823-b4e1-5b8231718a6c)
+
+
 ## Recommendations
 -  Access to drinking water should be improved in Chad given that it has the highest WASH deaths on the continent of Africa.
 -  The political instability is not too bad as compared to other African countries like South Sudan and Libya.
