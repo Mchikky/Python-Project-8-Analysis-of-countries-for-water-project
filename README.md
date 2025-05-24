@@ -15,7 +15,7 @@ Conduct a study on the global access to drinking water through data visualizatio
 - WHO data on basic and safely managed drinking water services (2000 - 2017) and mortality rate attributed to water (2016)
 
 ## Data preparation
-- Build data dictionary or metadat repository which is a centralized repository of information about all the datasets.
+- Build data dictionary or metadata repository which is a centralized repository of information about all the datasets.
 - Create blueprint for indicator definition and the type of graph required such as map, bar chart, stacked chart, scatter plot, group bar chart, line grapgh, and table.
 - Design wireframes or mockups using Figma for the 3 dashboards pages: global, continental, and national
 - Convert the 4 excel files to csv. file
