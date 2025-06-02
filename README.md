@@ -21,7 +21,7 @@ Conduct a study on the global access to drinking water through data visualizatio
 - Convert the 4 excel files to csv. file
   
 ## Data analysis
-- Import the 5 csv. files on population, country, political stability, mortality rate, and basic water services into Jupyter Notebook using Python programming
+- Import the 4 csv. files on population, country, political stability, mortality rate, and basic water services into Jupyter Notebook using Python programming
 <img width="1025" alt="aa" src="https://github.com/user-attachments/assets/fb979d44-86f0-4943-811c-b08948a88817" />
 
 
