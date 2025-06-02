@@ -24,11 +24,14 @@ Conduct a study on the global access to drinking water through data visualizatio
 - Import the 5 csv. files on population, country, political stability, mortality rate, and basic water services into Jupyter Notebook using Python programming
 <img width="1025" alt="aa" src="https://github.com/user-attachments/assets/fb979d44-86f0-4943-811c-b08948a88817" />
 
+
 - Clean the data by checking for duplicates, missing values, and incoherences in datasets
 <img width="970" alt="aaaa" src="https://github.com/user-attachments/assets/b99f5f5a-41ff-4556-9ae0-7d7a4559a179" />
 
+
 - Merge
 <img width="1283" alt="aaa" src="https://github.com/user-attachments/assets/b144b021-babc-44cd-ad78-49dc1718044a" />
+
 
 - Export cleaned files to csv.file
 - Import the csv. file into Tableau desktop to build connection and data visualisation.
