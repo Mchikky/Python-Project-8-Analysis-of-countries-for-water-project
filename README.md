@@ -11,8 +11,8 @@ Conduct a study on the global access to drinking water through data visualizatio
 - Consulting with administrations/governments on water access policies.
   
 ## Data source
-- FAO data on population and political insatbility (2000- 2018).
-- WHO data on basic and safely managed drinking water services (2000 - 2017) and mortality rate attributed to water (2016)
+- FAO data on population ("Population.csv" and "RegionCountry".csv), political insatbility 2000-2018 ("PoliticalStability.csv")
+- WHO data on basic and safely managed drinking water services, 2000-2017 ("BasicAndSafelyManagedDrinkingWaterServices.csv") and mortality rate attributed to water in 2016 (MortalityRateAttributedToWater.csv)
 
 ## Data preparation
 - Build data dictionary or metadata repository which is a centralized repository of information about all the datasets.
@@ -21,10 +21,16 @@ Conduct a study on the global access to drinking water through data visualizatio
 - Convert the 4 excel files to csv. file
   
 ## Data analysis
-- Import the 4 csv. files on population, country, political stability, mortality rate, and basic water services into Jupyter Notebook using Python programming
+- Import the 5 csv. files on population, country, political stability, mortality rate, and basic water services into Jupyter Notebook using Python programming
+<img width="1025" alt="aa" src="https://github.com/user-attachments/assets/fb979d44-86f0-4943-811c-b08948a88817" />
+
 - Clean the data by checking for duplicates, missing values, and incoherences in datasets
-- Merge 
-- Export cleaned files tp csv.file
+<img width="970" alt="aaaa" src="https://github.com/user-attachments/assets/b99f5f5a-41ff-4556-9ae0-7d7a4559a179" />
+
+- Merge
+<img width="1283" alt="aaa" src="https://github.com/user-attachments/assets/b144b021-babc-44cd-ad78-49dc1718044a" />
+
+- Export cleaned files to csv.file
 - Import the csv. file into Tableau desktop to build connection and data visualisation.
 - Plot the relevant graphs.
 
